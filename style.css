@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#text{
+    background-color: rgb(28, 28, 100);
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+#sto{
+    border-radius: 5rem;
+    
+}
+
+.btn1{
+    
+   
+   border-radius: 5rem;
+}
+
+.image{
+    display: flex;
+    gap: 2vmin;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.score{
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    justify-content: center ;
+    margin-top: 3rem;
+    font-size: xxx-large;
+}
+.btn{
+    
+    margin-top: 2rem;
+    background-color: green;
+    border-radius: 2rem;
+    font-size: xx-large;
+    padding: 1rem;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
